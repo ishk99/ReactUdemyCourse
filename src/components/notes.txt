@@ -1,0 +1,2 @@
+1. Only the parent component in a component tree is rendered on the HTML page.
+2. A component in react is just a javascript function
